@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Downloads/CRITICAL.jpeg</file>
+        <file>../Downloads/GOOD.jpeg</file>
+        <file>../Downloads/WARNING.jpeg</file>
+    </qresource>
+</RCC>
